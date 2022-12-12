@@ -1,6 +1,6 @@
 ### Links
 
--   Live Site URL: [Add live site URL here](https://eduardionescu.github.io/intro-component-with-signup-form-master/)
+-   Live Site URL: [Click here to see webpage](https://eduardionescu.github.io/intro-component-with-signup-form-master/)
 
 # Frontend Mentor - Intro component with sign up form solution
 
